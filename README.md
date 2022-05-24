@@ -6,5 +6,5 @@ HARPS independent project - Nicholas Lee
     - Randomization and averaging
 - MOKE data processing
     - Implemented live averaging and plotting
-    - Fixed file writing (to do)
+    - Fixed file writing 
     - Implemented abort button for electromagnet (to do)
